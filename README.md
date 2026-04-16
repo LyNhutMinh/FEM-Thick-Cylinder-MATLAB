@@ -36,6 +36,18 @@ The program not only calculates numerical solutions using custom-built stiffness
 4. The script will output the convergence plot, model mesh, and contour plots of stresses and displacements.
 
 ## 📊 Sample Outputs
+Q4:
+<img width="704" height="628" alt="image" src="https://github.com/user-attachments/assets/e826a10a-332e-423f-b923-bbb34db2aa01" />
+<img width="701" height="628" alt="image" src="https://github.com/user-attachments/assets/e7bc4adb-0ffa-4b94-be52-57000d2d9e64" />
+<img width="701" height="629" alt="image" src="https://github.com/user-attachments/assets/fd8cd071-1de9-4fff-ae45-06767da56424" />
+T3:
+<img width="703" height="629" alt="image" src="https://github.com/user-attachments/assets/07312989-3112-4f6d-8f6f-e091d66932d8" />
+<img width="700" height="629" alt="image" src="https://github.com/user-attachments/assets/10cc66d0-9fa1-4d29-ac17-2997349532cd" />
+<img width="705" height="625" alt="image" src="https://github.com/user-attachments/assets/1ed1570f-d57d-4e2f-81a7-413726c4734a" />
+
+
+
+
 
 
 ## 🎓 Academic Context
